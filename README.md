@@ -1,4 +1,6 @@
 # Elastic-load-balancer
+![elb](https://github.com/McTello/Elastic-load-balancer/assets/89931817/624e4b08-c58a-40bf-98a1-a80595267ada)
+
 Short notes on Elastic Load Balancer
 # Difference between ALB and NLB
 
